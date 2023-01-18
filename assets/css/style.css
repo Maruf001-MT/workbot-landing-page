@@ -70,7 +70,7 @@ dfn {
 }
 
 h1 {
-    font-size: 2em;
+    font-size: 1.5em;
     margin: .67em 0
 }
 
@@ -451,11 +451,6 @@ h6 {
     margin-bottom: 10px
 }
 
-h1 {
-    font-size: 38px;
-    line-height: 44px;
-    margin-top: 20px
-}
 
 h2 {
     font-size: 32px;
@@ -2280,7 +2275,7 @@ body {
 h1 {
     margin-top: 20px;
     margin-bottom: 10px;
-    font-size: 86px;
+    font-size: 70px;
     line-height: 1.2;
     font-weight: 400;
 }
@@ -3182,6 +3177,9 @@ figcaption {
 .brand-logo {
     width: 100%;
 }
+.brand-logo img{
+    width: 500px;
+}
 
 .nav-links-holder {
     display: -webkit-box;
@@ -3608,7 +3606,7 @@ figcaption {
 .card-title {
     margin-top: 0px;
     margin-bottom: 0px;
-    font-size: 32px;
+    font-size: 37px;
     font-weight: 600;
 }
 
@@ -5304,7 +5302,9 @@ figcaption {
     -ms-flex-align: center;
     align-items: center;
 }
-
+.app-logo-holder img{
+    width: 100px;
+}
 .fixed-navbar {
     position: fixed;
     left: 0%;
@@ -5364,7 +5364,7 @@ figcaption {
 
 .hero-text-logo {
     position: absolute;
-    top: 70px;
+    top: 100px;
     z-index: 2;
 }
 
@@ -5423,7 +5423,7 @@ figcaption {
 
 .emoji-holder._02 {
     left: 314px;
-    top: 107px;
+    top: -10px;
     background-color: var(--secondary);
 }
 
